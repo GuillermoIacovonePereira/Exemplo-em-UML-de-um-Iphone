@@ -1,4 +1,4 @@
-# Simulação em UML de um Iphone
+# Exemplo em UML de um Iphone
 
 ### [Diagrama em UML](https://github.com/GuillermoIacovonePereira/Simulacao-em-UML-de-um-Iphone/blob/main/Diagrama%20em%20UML.png)
 
